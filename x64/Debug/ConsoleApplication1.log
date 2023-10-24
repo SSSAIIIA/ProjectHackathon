@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\oggih\OneDrive\Documents\GitHub\ConsoleApplication1\ConsoleApplication1.cpp(241,64): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\oggih\OneDrive\Documents\GitHub\ConsoleApplication1\ConsoleApplication1.cpp(242,67): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\oggih\OneDrive\Documents\GitHub\ConsoleApplication1\ConsoleApplication1.cpp(243,68): warning C4305: аргумент: усечение из "double" в "float"
+  ConsoleApplication1.vcxproj -> C:\Users\oggih\OneDrive\Documents\GitHub\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
